@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://2015.drupalcampwroclaw.pl/pl" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>DrupalCamp Wrocław</title>
+ <link>http://2015.drupalcampwroclaw.pl/pl</link>
+ <atom:link rel="self" href="http://2015.drupalcampwroclaw.pl/pl/rss.xml" />
+ <language>pl</language>
+ <pubDate>Tue, 09 Feb 2016 11:28:00 +0100</pubDate>
+ <lastBuildDate>Tue, 09 Feb 2016 11:28:50 +0100</lastBuildDate>
+ <item> <title>DrupalCamp 2016 </title>
+ <link>http://2015.drupalcampwroclaw.pl/node/262</link>
+ <description>Kolejna edycja konferencji DrupalCamp odbędzie się w dniach 21-22.05.2016 we Wrocławiu. Wkrótce uruchomimy nową wersję strony i opublikujemy więcej inforamcji o konferencji.
+</description>
+ <pubDate>Tue, 09 Feb 2016 11:28:00 +0100</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Już tylko 3 tygodnie do Drupal Camp</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/214</link>
+ <description>Do konferencji Drupal Camp Wrocław 2015 już tylko nieco ponad 3 tygodnie.
+ 
+Znamy już plan ramowy tegorocznej konferencji. W tym roku zaczynamy już w
+piątek o godzinie 10. Zaczniemy od Code Sprint i postaramy się pomóc przy
+rozwoju Drupala 8, modułu Allegro i nową wersją ­ FoodCoop System. Code
+Sprinty poprowadzą Jarek Sobiecki, Rafał Enden i Karol Bryksa.
+Jednocześnie w drugiej sali odbywać się będą warsztaty z podstaw
+tworzenia szablonów w Drupal 7, które poprowadzą Karol Węcławski i</description>
+ <pubDate>Wed, 06 May 2015 21:47:46 +0200</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Zniżki w hotelu</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/206</link>
+ <description>Dla wszystkich wybierających się na konferencję mamy zniżki w hotelu, w którym będzie konferencja.  Za pokój jednoosobowy zapłacicie tylko 209 zł a za pokój dwuosobowy 240 zł. Prosimy przy dokonywaniu rezerwacji powoływać się na hasło Politechnika Wrocławska. Rezerwacje powinny być składane mailem na adres: H3397-RE@accor.com. Pula pokoi dla gości zarezerwowana przez Hotel będzie trzymana do 15.05.2015 r. Rezerwujcie czas na weekend 29-31 maja i przyjeżdzajcie do Wrocławia :)
+ 
+</description>
+ <pubDate>Wed, 29 Apr 2015 07:46:18 +0200</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Nasz pierwszy sponsor!</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/166</link>
+ <description>Mamy pierwszego sponsora konferencji DrupalCamp Wrocław 2015! Diamentowym sponsorem została firma Droptica. Zapraszamy pozostałe firmy do wsparcia konferencji.
+</description>
+ <pubDate>Wed, 25 Mar 2015 13:38:30 +0100</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Książki dla uczestników konferencji od wydawnictwa Helion!</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/161</link>
+ <description>Macie ochotę na którąś z książek na temat Drupala?
+Wydawnictwo Helion ufundowało 5 publikacji, które będziecie mogli wygrać w jednym z konkursów podczas Drupal Camp Wrocław 2015!
+Na kolejną edycję konferencji DrupalCampWrocław zapraszamy od 29 do 31 maja 2015!
+ 
+</description>
+ <pubDate>Tue, 17 Mar 2015 08:37:27 +0100</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DRUPALCAMP WROCŁAW 2015 NADCHODZI!</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/154</link>
+ <description>Rozpoczęliśmy przygotowania do kolejnej edycji konferencji DrupalCamp Wroclaw conference. Konferencja potrwa 3 dni
+Ważne daty
+17.02.2015 - 30.04.2015 Zgłaszanie propozycji sesji
+1.05.2015 - 15.05.2015 Głosowanie na sesje.
+29.05.2014 - 31.05.2015 Konferencja DrupalCamp Wroclaw
+</description>
+ <pubDate>Tue, 17 Feb 2015 21:54:43 +0100</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DrupalCamp Wrocław 2015 - rozpoczynamy przygotowania</title>
+ <link>http://2015.drupalcampwroclaw.pl/node/149</link>
+ <description>Rozpoczynamy organizacyjne przygotowania do konferencji DrupalCamp Wrocław 2015. Jeśli jesteś zainteresowany/a dołączeniem do zespołu i pomocą w organizacji konferencji to zapraszamy do odwiedzenia strony https://github.com/DrupalCampWroclaw/organizacyjne_2015/issues/1 i zgłoszenia tam swojej chęci pomocy
+</description>
+ <pubDate>Mon, 24 Nov 2014 11:02:54 +0100</pubDate>
+ <source url="http://2015.drupalcampwroclaw.pl/pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+</channel>
+</rss>
